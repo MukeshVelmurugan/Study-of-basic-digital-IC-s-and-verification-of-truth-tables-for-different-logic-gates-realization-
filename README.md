@@ -78,7 +78,7 @@ endmodule
 ![ok](./lo.png)
 
 ## Output:
-RTL realization:
+## RTL realization:
 ![model](./de3.png)
 ## Timing Diagram:
 ![it](./ti.png)
